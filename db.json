@@ -1,0 +1,24 @@
+{
+  "user": [
+    {
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_Epp8FkB0yLe1jMH-bc0TpZ-nIqSPUkYg7Q&usqp=CAU",
+      "name": "Mihir",
+      "email": "xyz123@gmail.com",
+      "Id": "2134",
+      "pass": "123456",
+      "course": "gim",
+      "Number": "89082131",
+      "id": 3
+    },
+    {
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_oD6F7VabAWBgvelxTWLE4uvDe5v1-5YSTQ&usqp=CAU",
+      "name": "bty",
+      "email": "bya@gmail.com",
+      "Id": "1234",
+      "pass": "123456",
+      "course": "gjs",
+      "Number": "972283230",
+      "id": 4
+    }
+  ]
+}
